@@ -15,3 +15,6 @@ Don't land on your head.
 Don't Run of out fuel.
 
 **Have Fun!**
+\
+\
+![alt text](https://github.com/mikemaid/Mountain-Climb/Pictures/MainMenu.png?raw=true)
