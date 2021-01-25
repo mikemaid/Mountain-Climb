@@ -1,4 +1,4 @@
-# Mountain Climb (100% not a ripoff game)
+# Mountain Climb *100% not a ripoff game*
 
 **A Standalone .exe Game!**
 \
