@@ -17,4 +17,4 @@ Don't Run of out fuel.
 **Have Fun!**
 \
 \
-![alt text](https://github.com/mikemaid/Mountain-Climb/Pictures/MainMenu.png?raw=true)
+![alt text](https://github.com/mikemaid/Mountain-Climb/tree/main/Pictures/MainMenu.png?raw=true)
