@@ -3,7 +3,6 @@
 **A Standalone .exe Game!**
 \
 \
-\
 **Use Arrow Keys To Move**
 \
 \
@@ -11,7 +10,6 @@
 **Down** - Reverse\
 **Left** - Counterclockwise Rotation\
 **Right** - Clockwise Rotation\
-\
 \
 \
 Don't land on your head.
