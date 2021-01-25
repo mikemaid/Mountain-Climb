@@ -1,23 +1,23 @@
 # Mountain Climb "*100% not a ripoff game*"
-
+\
 **A Standalone .exe Game!**
 \
 \
 \
-**Use arrow keys to move.**
-
-
-Up, Down for forwards, backwards.
-
-
-Left, Right for rotation.
+**Use Arrow Keys To Move**
+\
+\
+Up - Forwards\
+Down - Reverse\
+Left - Counterclockwise Rotation\
+Right - Clockwise Rotation\
 \
 \
 \
 Don't land on your head.
-
+\
 Don't Run of out fuel.
-
+\
 **Have Fun!**
 \
 \
