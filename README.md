@@ -7,9 +7,9 @@ Up, Down for forwards, backwards.
 
 
 Left, Right for rotation.
-
-
-
+\
+\
+\
 Don't land on your head.
 
 Don't Run of out fuel.
