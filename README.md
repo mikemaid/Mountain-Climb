@@ -1,5 +1,7 @@
 # Mountain Climb (100% not a ripoff game)
-
+\
+**Standalone .exe game!**
+\
 **Use arrow keys to move.**
 
 
